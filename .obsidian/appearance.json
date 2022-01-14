@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 16,
+  "translucency": false,
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "monospace"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "Bibliography/Zotero",
+  "literatureNoteContentTemplate": "---\nauthors: {{authorString}}<% tp.file.cursor(1) %>\ntitle: {{title}}\npublisherPlace: {{publisherPlace}}\npublisher: {{publisher}}\nyear: {{year}}\nurl: {{URL}}\ntags: []\naliases: []\n---\n```dataview\nLIST\nWHERE contains(file.folder, this.file.folder + \"/\" + this.file.name)\nSORT file.name ASC\n```\n[Open In Zotero]({{zoteroSelectURI}})\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "./Zotero.bib"
+}

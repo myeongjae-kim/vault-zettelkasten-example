@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "6df2ff70b9d42933",
+    "type": "split",
+    "children": [
+      {
+        "id": "b462948cbbcc5939",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc9cda5aeacb3f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "8083f2d68b976dab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "278d61ac3dc2d7c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8682a6fd58f20f53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "37eafde7d7fc65a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "de708d96eb3f7371",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00a60c7727e16fbb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "becbc2167300bc86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "977769e9cf0c905a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0d9427174810b12",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b462948cbbcc5939",
+  "lastOpenFiles": [
+    "README.md",
+    "bibliography/zotero/@arenseuJetelkaseuten2021.md",
+    "bibliography/zotero/@arenseuJetelkaseuten2021/Untitled.md",
+    "bibliography/zotero/@arenseuJetelkaseuten2021/178-메모-비교.md",
+    "bibliography/zotero/@arenseuJetelkaseuten2021/188-제텔카스텐과-추상화.md",
+    "bibliography/zotero/@arenseuJetelkaseuten2021/016-의지력이-필요-없는-환경.md",
+    "projects/1-제텔카스텐으로-제텔카스텐-시스템-구축하는-글을-작성하는-글-작성하기.md",
+    "res/R4_Deliberate practice and acquisition of expert performance.pdf",
+    "res/Past-present-future-of-ego-depletion.pdf",
+    "projects/2-우아한스터디-후기.md"
+  ]
+}

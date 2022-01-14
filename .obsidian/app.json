@@ -1,0 +1,18 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": false,
+  "vimMode": true,
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "useTab": false,
+  "attachmentFolderPath": "res",
+  "spellcheck": true,
+  "strictLineBreaks": true
+}
